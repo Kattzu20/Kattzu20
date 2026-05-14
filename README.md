@@ -1,16 +1,26 @@
-## Hi there 👋
+# Buenaas soy Arantxa 🦋
 
-<!--
-**Kattzu20/Kattzu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌹 Sobre mí 🌹
+Soy una persona creativa con pasión por la tecnología, que se está formando en Análisis y Desarrollo de Software. Me encanta combinar la tecnología y la creatividad para ayudar con la creación de código y aprender nuevas herramientas cada día.
 
-Here are some ideas to get you started:
+- 💻 **Estudiando en:** Servicio Nacional de Aprendizaje - SENA
+- 📍 **Ubicación:** Armenia, Quindío - Colombia 🇨🇴
+- ✨ **Meta:** Espero dominar Java a la perfección
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mis Herramientas (Tecnologías)
+*En trabajos anteriores he trabajado con:*
+
+- **Lenguajes:** HTML, CSS, PHP.
+- **Aprendiendo ahora mismo:** Java ☕, JavaScript ⚡.
+- **Herramientas:** Git, GitHub, VS Code.
+
+---
+
+### 📂 Proyectos Destacados
+*Aquí puedes ver en qué he estado trabajando:*
+
+**[Yoyo Manualidades](aquí-va-el-link-de-tu-repo)**: Desarrollo de una plataforma web de inventario para la gestión y venta de muñecas de trapo artesanales. (Enfoque en organización de datos y experiencia de usuario).
+
+---
