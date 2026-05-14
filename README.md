@@ -21,6 +21,6 @@ Soy una persona creativa con pasión por la tecnología, que se está formando e
 ### 📂 Proyectos Destacados
 *Aquí puedes ver en qué he estado trabajando:*
 
-**[Yoyo Manualidades](aquí-va-el-link-de-tu-repo)**: Desarrollo de una plataforma web de inventario para la gestión y venta de muñecas de trapo artesanales. (Enfoque en organización de datos y experiencia de usuario).
+**[Yoyo Manualidades](https://github.com/Kattzu20/Yoyo_Manualidades)**: Desarrollo de una plataforma web de inventario para la gestión y venta de muñecas de trapo artesanales. (Enfoque en organización de datos y experiencia de usuario).
 
 ---
